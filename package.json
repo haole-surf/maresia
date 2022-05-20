@@ -1,0 +1,37 @@
+{
+  "name": "maresia",
+  "version": "1.0.0",
+  "description": "A framework node.js focusing on mapping all climatic and meteorological behavior of the environment",
+  "keywords": [
+    "maresia",
+    "nodejs",
+    "node",
+    "javascript",
+    "typescript"
+  ],
+  "authors": [
+    "@ahsouza Aníbal Henrique De Souza <anibal.souza@haolesurf.com>"
+  ],
+  "homepage": "https://github.com/haole-surf/maresia#readme",
+  "bugs": {
+    "url": "https://github.com/haole-surf/maresia/issues",
+    "email": "support@haolesurf.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haole-surf/maresia.git"
+  },
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engineStrict": true,
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
+}
